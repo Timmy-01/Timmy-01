@@ -2,6 +2,6 @@
 
 -👀 I’m interested in ... Coding, Designing and gaming
 
--🌱 I’m currently learning ...Machine Leanrning and data science
+-🌱 I’m currently learning ... Machine Leanrning and data science
 
--📫 How to reach me ...iamtimothycletus@gmail.com
+-📫 How to reach me ... iamtimothycletus@gmail.com
